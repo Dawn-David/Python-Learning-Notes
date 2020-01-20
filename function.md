@@ -1,14 +1,15 @@
 python判断字符串，str函数isdigit、isdecimal、isnumeric的区别
+====
 转载：https://www.cnblogs.com/guigujun/p/6133057.html
 
 s为字符串
-s.isalnum() 所有字符都是数字或者字母
-s.isalpha() 所有字符都是字母
-s.isdigit() 所有字符都是数字
-s.islower() 所有字符都是小写
-s.isupper() 所有字符都是大写
-s.istitle() 所有单词都是首字母大写，像标题
-s.isspace() 所有字符都是空白字符、\t、\n、\r
+s.isalnum() 所有字符都是数字或者字母\<br>
+s.isalpha() 所有字符都是字母\<br>
+s.isdigit() 所有字符都是数字\<br>
+s.islower() 所有字符都是小写\<br>
+s.isupper() 所有字符都是大写\<br>
+s.istitle() 所有单词都是首字母大写，像标题\<br>
+s.isspace() 所有字符都是空白字符、\t、\n、\r\<br>
 
 判断是整数还是浮点数
 a=123
