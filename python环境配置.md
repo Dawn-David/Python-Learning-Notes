@@ -25,7 +25,7 @@
         https://www.jianshu.com/p/eaee1fadc1e9
 
 # Pytorch安装
-[python安装pytorch](https://blog.csdn.net/qq_39377418/article/details/100336356)<br>
-[Win10环境下安装pytorch踩坑实录](https://blog.csdn.net/buaa1406/article/details/83104158)<br>
+[pytorch快速安装【清华源】](https://blog.csdn.net/zzq060143/article/details/88042075)<br>
+[Windows环境下Anaconda3安装配置pytorch详细步骤（踩坑汇总）](https://blog.csdn.net/qq_41282258/article/details/98961667)<br>
 
 
