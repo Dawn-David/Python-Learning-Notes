@@ -16,11 +16,9 @@
         conda remove -n envname packagename 删除某环境环境某包
                 
  # Anaconda入门连接
- [入门介绍连接](https://www.jianshu.com/p/742dc4d8f4c5)
- 
- [Anaconda快速使用教程](https://www.jianshu.com/p/20a92e5eb9af)
- 
- [Anaconda完全入门指南](https://www.jianshu.com/p/eaee1fadc1e9)
+ [入门介绍连接](https://www.jianshu.com/p/742dc4d8f4c5)<br>
+ [Anaconda快速使用教程](https://www.jianshu.com/p/20a92e5eb9af)<br>
+ [Anaconda完全入门指南](https://www.jianshu.com/p/eaee1fadc1e9)<br>
  
         https://www.jianshu.com/p/742dc4d8f4c5
         https://www.jianshu.com/p/20a92e5eb9af
