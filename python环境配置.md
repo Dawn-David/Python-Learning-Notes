@@ -28,7 +28,7 @@
         conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
         conda config --set show_channel_urls yes
   
-特别注意：因删除倒数第二行的-default，以免造成错误。<>
+特别注意：因删除倒数第二行的-default，以免造成错误。<br>
 设置好的.condarc文件如下：
 
         channels:
@@ -38,7 +38,7 @@
         show_channel_urls: true
 
 # Anaconda环境
-Anaconda的基础环境，路径为：C:\ProgramData\Anaconda3，包安装路径在：\Lib\site-packages
+Anaconda的基础环境，路径为：C:\ProgramData\Anaconda3，包安装路径在：\Lib\site-packages<br>
 Anaconda的新建环境，路径为：C:\Users\dell\.conda，包安装路径同上
 
         基础环境路径：C:\ProgramData\Anaconda3
@@ -46,6 +46,8 @@ Anaconda的新建环境，路径为：C:\Users\dell\.conda，包安装路径同�
         
         激活环境：activate 环境名称
         退出环境：conda deactivate
+本系统的基础环境：Python3.7  tensorflow 2.0 <br>
+        tensorflow环境：Python3.6  tensorflow 1.13.1
  
 # Pytorch安装
 [pytorch快速安装【清华源】](https://blog.csdn.net/zzq060143/article/details/88042075)<br>
