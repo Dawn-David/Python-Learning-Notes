@@ -38,8 +38,14 @@
         show_channel_urls: true
 
 # Anaconda环境
-        C:\ProgramData\Anaconda3
-        C:\Users\dell\.conda\envs\tensorflow
+Anaconda的基础环境，路径为：C:\ProgramData\Anaconda3，包安装路径在：\Lib\site-packages
+Anaconda的新建环境，路径为：C:\Users\dell\.conda，包安装路径同上
+
+        基础环境路径：C:\ProgramData\Anaconda3
+        新建环境路径：C:\Users\dell\.conda\envs\tensorflow
+        
+        激活环境：activate 环境名称
+        退出环境：conda deactivate
  
 # Pytorch安装
 [pytorch快速安装【清华源】](https://blog.csdn.net/zzq060143/article/details/88042075)<br>
