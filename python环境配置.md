@@ -60,4 +60,7 @@ Anaconda的新建环境，路径为：C:\Users\dell\.conda，包安装路径同�
         
         查询：conda search tensorflow
         安装：conda install tensorflow=2.0
+        
+ 
+https://github.com/Dawn-David/Python-Learning-Notes/upload
 
