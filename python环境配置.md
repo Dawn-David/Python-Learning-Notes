@@ -7,7 +7,7 @@
  [Anaconda快速使用教程](https://www.jianshu.com/p/20a92e5eb9af)<br>
  [Anaconda完全入门指南](https://www.jianshu.com/p/eaee1fadc1e9)<br>
 
-# conda命令
+## conda命令
 当要安装第三方库或者更新时，需在Anaconda Prompt命令行里面输入命令：
 
         conda list 列举当前环境下的所有包
@@ -20,7 +20,7 @@
         conda remove packagename 删除当前环境某包
         conda remove -n envname packagename 删除某环境环境某包
                 
- # 清华源安装
+ ## 清华源安装
  安装时，常因软件过大，网络连接差，导致安装失败，因此才有清华源安装<br>
  写入默认的安装地址的命令如下：
         
@@ -37,7 +37,7 @@
                 - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
         show_channel_urls: true
 
-# Anaconda环境
+## Anaconda环境
 Anaconda的基础环境，路径为：C:\ProgramData\Anaconda3，包安装路径在：\Lib\site-packages<br>
 Anaconda的新建环境，路径为：C:\Users\dell\.conda，包安装路径同上
 
@@ -61,6 +61,9 @@ Anaconda的新建环境，路径为：C:\Users\dell\.conda，包安装路径同�
         查询：conda search tensorflow
         安装：conda install tensorflow=2.0
         
- 
-https://github.com/Dawn-David/Python-Learning-Notes/upload
+# Jupyter使用
+
+        [Python的IDE之Jupyter的使用](https://www.cnblogs.com/nickchen121/p/10531966.html)
+        https://www.cnblogs.com/nickchen121/p/10531966.html
+
 
