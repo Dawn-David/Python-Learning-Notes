@@ -62,8 +62,8 @@ Anaconda的新建环境，路径为：C:\Users\dell\.conda，包安装路径同�
         安装：conda install tensorflow=2.0
         
 # Jupyter使用
+[Python的IDE之Jupyter的使用](https://www.cnblogs.com/nickchen121/p/10531966.html)
 
-        [Python的IDE之Jupyter的使用](https://www.cnblogs.com/nickchen121/p/10531966.html)
         https://www.cnblogs.com/nickchen121/p/10531966.html
 
 
