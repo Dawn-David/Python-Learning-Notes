@@ -75,13 +75,10 @@ Anaconda的新建环境，路径为：C:\Users\dell\.conda，包安装路径同�
 [服务器链接](https://github.com/Dawn-David/Linux_note)<br>
 <br>
 为了方便运行代码，需远程访问Jupyter NoteBook<br>
-* 先，配置Ubuntu，用Xshell连接服务器
-* 再，对服务器端的jupyter进行配置
-* 最，设置window端
+* 先，配置Ubuntu，用Xshell连接服务器，[Xshell连接](https://blog.csdn.net/github_39655029/article/details/81330387)
+* 再，对服务器端的jupyter进行配置，[服务器端设置](https://www.jianshu.com/p/5685e2ff85ad)
+* 最，设置window端，[Windows设置](https://www.jianshu.com/p/4012f7149eb8?from=timeline)
 
-        [服务器端设置](https://www.jianshu.com/p/5685e2ff85ad)
-        [Windows设置](https://www.jianshu.com/p/4012f7149eb8?from=timeline)
-        
  设置的服务器端Jupyter的端口号为：`8000`，密码为：`123`<br>
  设置本机的侦听端口：`8000`，目标端口为：`8888`<br>
  即可在本机通过访问`localhost:8000`，来访问远程的Jupyter
