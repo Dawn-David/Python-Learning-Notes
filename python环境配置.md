@@ -19,6 +19,9 @@
         conda update -n envname packagename 更新某特定环境某包
         conda remove packagename 删除当前环境某包
         conda remove -n envname packagename 删除某环境环境某包
+        
+[conda常用命令](https://blog.csdn.net/zhayushui/article/details/80433768)
+
                 
  ## 清华源安装
  安装时，常因软件过大，网络连接差，导致安装失败，因此才有清华源安装<br>
