@@ -11,10 +11,10 @@ s为字符串<br>
 `s.istitle()` 所有单词都是首字母大写，像标题<br>
 `s.isspace()` 所有字符都是空白字符、\t、\n、\r<br>
 
-isinstance()：判断是整数还是浮点数
----
-    a=123
-    b=123.123
+      isi  
+-- -- -----
+           
+           
 
     >>>isinstance(a,int)
     True
@@ -70,9 +70,9 @@ False: 无<br>
 Error: byte数字（单字节）<br>
 
 
-附录
----
-    import unicodedata
+附录  
+----
+    
 
     unicodedata.digit("2")   # 2
     unicodedata.decimal("2") # 2
